@@ -28,7 +28,7 @@ public class ClassExercise {
         System.out.println(a % b); // result is 2
         System.out.println(c / a); //result is 5
         
-        System.out.println("The values are  " + a + "\t" + b + "\t" + c );
+        System.out.println("The values are a=" + a + "\tb=" + b + "\tc=" + c);
         
         
         double d = 17;
